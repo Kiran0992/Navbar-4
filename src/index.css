@@ -6,8 +6,8 @@
   /* width: 100vw; */
 }
 body{
-  background: linear-gradient(to right, #11998e, #38ef7d);
-  background-repeat: no-repeat; /* Prevents repeating */
+  background: linear-gradient(to right, #11998e, #3aed7e);
+  background-repeat: no-repeat; 
   background-attachment: fixed; /* Keeps it fixed while scrolling */
   background-size: cover; /* Ensures full viewport coverage */
   height: 100vh; /* Ensure the body covers the entire viewport */

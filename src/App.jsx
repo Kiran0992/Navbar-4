@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="navbar-container">
        <div>
        <a href="/" src="" className="navbar-logo">
-       <img src='https://logopond.com/avatar/257420/logopond.png'></img></a> {/* Your logo/brand */}
+       <img src='https://logopond.com/avatar/257420/logopond.png'></img></a> 
        </div>
        <div>
        <ul className="navbar-menu">
